@@ -1,0 +1,6 @@
+.env
+.venv/
+lake/
+state/
+logs/
+__pycache__/
