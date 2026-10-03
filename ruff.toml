@@ -1,1 +1,1 @@
-extend_exclude = ["notebooks"]
+extend-exclude = ["notebooks"]
